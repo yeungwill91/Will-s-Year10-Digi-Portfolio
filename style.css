@@ -81,3 +81,10 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+
+
+.black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
