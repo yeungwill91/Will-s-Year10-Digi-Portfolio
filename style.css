@@ -5,9 +5,12 @@ html {
     padding: 0;
     height: 100%;
     /* The Font Family- Really important!! */
-    font-family: Georgia, serif;
-    box-sizing: border-box;
+   .black-ops-one-regular {
+  font-family: "Black Ops One", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
+
 
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
